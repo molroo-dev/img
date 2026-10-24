@@ -1,0 +1,256 @@
+{
+  "fire": {
+    "count": 18,
+    "delay": 9,
+    "frames": [
+      {
+        "ax": 4,
+        "ay": 15,
+        "width": 8,
+        "height": 18,
+        "x": 0,
+        "y": 0
+      },
+      {
+        "ax": 5,
+        "ay": 14,
+        "width": 10,
+        "height": 16,
+        "x": 12,
+        "y": 0
+      },
+      {
+        "ax": 4,
+        "ay": 13,
+        "width": 8,
+        "height": 15,
+        "x": 24,
+        "y": 0
+      },
+      {
+        "ax": 4,
+        "ay": 13,
+        "width": 8,
+        "height": 15,
+        "x": 36,
+        "y": 0
+      },
+      {
+        "ax": 4,
+        "ay": 14,
+        "width": 8,
+        "height": 17,
+        "x": 48,
+        "y": 0
+      },
+      {
+        "ax": 4,
+        "ay": 13,
+        "width": 8,
+        "height": 15,
+        "x": 60,
+        "y": 0
+      },
+      {
+        "ax": 4,
+        "ay": 13,
+        "width": 8,
+        "height": 15,
+        "x": 72,
+        "y": 0
+      },
+      {
+        "ax": 4,
+        "ay": 15,
+        "width": 8,
+        "height": 19,
+        "x": 84,
+        "y": 0
+      },
+      {
+        "ax": 4,
+        "ay": 13,
+        "width": 8,
+        "height": 15,
+        "x": 96,
+        "y": 0
+      },
+      {
+        "ax": 4,
+        "ay": 14,
+        "width": 8,
+        "height": 17,
+        "x": 108,
+        "y": 0
+      },
+      {
+        "ax": 4,
+        "ay": 13,
+        "width": 8,
+        "height": 15,
+        "x": 0,
+        "y": 21
+      },
+      {
+        "ax": 4,
+        "ay": 15,
+        "width": 8,
+        "height": 19,
+        "x": 12,
+        "y": 21
+      },
+      {
+        "ax": 4,
+        "ay": 13,
+        "width": 8,
+        "height": 15,
+        "x": 24,
+        "y": 21
+      },
+      {
+        "ax": 4,
+        "ay": 12,
+        "width": 8,
+        "height": 12,
+        "x": 36,
+        "y": 21
+      },
+      {
+        "ax": 4,
+        "ay": 13,
+        "width": 8,
+        "height": 15,
+        "x": 48,
+        "y": 21
+      },
+      {
+        "ax": 5,
+        "ay": 12,
+        "width": 10,
+        "height": 13,
+        "x": 60,
+        "y": 21
+      },
+      {
+        "ax": 4,
+        "ay": 13,
+        "width": 8,
+        "height": 14,
+        "x": 72,
+        "y": 21
+      },
+      {
+        "ax": 4,
+        "ay": 12,
+        "width": 8,
+        "height": 14,
+        "x": 84,
+        "y": 21
+      }
+    ],
+    "width": 120,
+    "height": 42,
+    "source": 14639760,
+    "image": "fire.png"
+  },
+  "cloud": {
+    "count": 6,
+    "delay": 9,
+    "frames": [
+      {
+        "ax": 35,
+        "ay": 21,
+        "width": 70,
+        "height": 42,
+        "x": 0,
+        "y": 0
+      },
+      {
+        "ax": 37,
+        "ay": 20,
+        "width": 75,
+        "height": 41,
+        "x": 80,
+        "y": 0
+      },
+      {
+        "ax": 36,
+        "ay": 18,
+        "width": 72,
+        "height": 37,
+        "x": 160,
+        "y": 0
+      },
+      {
+        "ax": 38,
+        "ay": 17,
+        "width": 76,
+        "height": 34,
+        "x": 240,
+        "y": 0
+      },
+      {
+        "ax": 38,
+        "ay": 15,
+        "width": 77,
+        "height": 30,
+        "x": 320,
+        "y": 0
+      },
+      {
+        "ax": 39,
+        "ay": 17,
+        "width": 78,
+        "height": 34,
+        "x": 400,
+        "y": 0
+      }
+    ],
+    "width": 480,
+    "height": 44,
+    "source": 12904500,
+    "image": "cloud.png"
+  },
+  "mine": {
+    "count": 4,
+    "delay": 9,
+    "frames": [
+      {
+        "ax": 5,
+        "ay": 7,
+        "width": 11,
+        "height": 9,
+        "x": 0,
+        "y": 0
+      },
+      {
+        "ax": 5,
+        "ay": 5,
+        "width": 11,
+        "height": 7,
+        "x": 13,
+        "y": 0
+      },
+      {
+        "ax": 5,
+        "ay": 4,
+        "width": 11,
+        "height": 6,
+        "x": 26,
+        "y": 0
+      },
+      {
+        "ax": 5,
+        "ay": 5,
+        "width": 11,
+        "height": 7,
+        "x": 39,
+        "y": 0
+      }
+    ],
+    "width": 52,
+    "height": 11,
+    "source": 13457892,
+    "image": "mine.png"
+  }
+}
