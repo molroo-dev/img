@@ -1,0 +1,32 @@
+Solar System body texture maps
+==============================
+
+The Sun, Mercury, Venus, the Moon, Mars, Jupiter, Saturn, Uranus, and Neptune
+textures are from Solar System Scope (INOVE), downloaded from:
+
+https://www.solarsystemscope.com/textures/
+
+The maps are distributed under the Creative Commons Attribution 4.0
+International license (CC BY 4.0):
+
+https://creativecommons.org/licenses/by/4.0/
+
+The files in this directory are the original 2048x1024 JPEG downloads, renamed
+for stable application URLs. See docs/planet-texture-sources.md in the source
+repository for per-file provenance and checksums.
+
+earth-cloud_combined_2048.jpg is NASA's Blue Marble cloud composite, downloaded
+unchanged from NASA Visible Earth:
+
+https://eoimages.gsfc.nasa.gov/images/imagerecords/57000/57747/cloud_combined_2048.jpg
+
+Credit: NASA Visible Earth.
+
+earth-blue-marble-4096.jpg and earth-night-4096.jpg are unmodified 4096x2048
+EPSG:4326 exports of the NASA GIBS layers BlueMarble_NextGeneration and
+VIIRS_CityLights_2012, requested from:
+
+https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi
+
+Credit: NASA Global Imagery Browse Services (GIBS), part of NASA's Earth
+Science Data and Information System (ESDIS).
